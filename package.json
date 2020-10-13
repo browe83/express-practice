@@ -1,0 +1,23 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "routing practice",
+  "main": "express.js",
+  "scripts": {
+    "test": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browe83/express-practice.git"
+  },
+  "author": "Brandon Rowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/browe83/express-practice/issues"
+  },
+  "homepage": "https://github.com/browe83/express-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
